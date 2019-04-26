@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.489
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "restmql", "restmql\restmql.csproj", "{305DCFDE-FEF1-4D11-A026-F92EABADEAFB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{305DCFDE-FEF1-4D11-A026-F92EABADEAFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{305DCFDE-FEF1-4D11-A026-F92EABADEAFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{305DCFDE-FEF1-4D11-A026-F92EABADEAFB}.Debug|x64.ActiveCfg = Debug|x64
+		{305DCFDE-FEF1-4D11-A026-F92EABADEAFB}.Debug|x64.Build.0 = Debug|x64
+		{305DCFDE-FEF1-4D11-A026-F92EABADEAFB}.Debug|x86.ActiveCfg = Debug|x86
+		{305DCFDE-FEF1-4D11-A026-F92EABADEAFB}.Debug|x86.Build.0 = Debug|x86
+		{305DCFDE-FEF1-4D11-A026-F92EABADEAFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{305DCFDE-FEF1-4D11-A026-F92EABADEAFB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{305DCFDE-FEF1-4D11-A026-F92EABADEAFB}.Release|x64.ActiveCfg = Release|x64
+		{305DCFDE-FEF1-4D11-A026-F92EABADEAFB}.Release|x64.Build.0 = Release|x64
+		{305DCFDE-FEF1-4D11-A026-F92EABADEAFB}.Release|x86.ActiveCfg = Release|x86
+		{305DCFDE-FEF1-4D11-A026-F92EABADEAFB}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E008E2D5-3A0B-4168-8EE7-8D39CC31C150}
+	EndGlobalSection
+EndGlobal
