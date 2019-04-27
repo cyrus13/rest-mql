@@ -1,3 +1,5 @@
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 # What is this project about?
 It's a REST library for MQL5. Comprises of a C# dll that deals with the REST communication and an MQL5 sample project.
 
