@@ -23,3 +23,6 @@ You can download the precompiled DLL from the [releases page](https://github.com
 
 # How do I use the DLL from MQL?
 You can check the sample file:[testmqldll.mq5](https://github.com/cyrus13/rest-mql/blob/master/mql5-sample-code/testmqldll.mq5)
+
+# What about Serialization and Deserialization?
+This library does not deal with Serialization and Deserialization. JSON is usually the obvious option when it comes to REST, but probably not the best suited for MQL. The implementation details of the Serialization/Deserialization framework are beyond the scope of this simple library.
