@@ -20,3 +20,6 @@ Restart Visual Studio and the project should compile without errors. Release the
 
 ## Option2: Precompiled DLL
 You can download the precompiled DLL from the [releases page](https://github.com/cyrus13/rest-mql/releases).
+
+# How do I use the DLL from MQL?
+You can check the sample file:[testmqldll.mq5](https://github.com/cyrus13/rest-mql/blob/master/mql5-sample-code/testmqldll.mq5)
