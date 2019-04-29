@@ -31,9 +31,11 @@ namespace Cyrus.Mql5
         [DllExport("CPing", CallingConvention = CallingConvention.StdCall)]
         public static int CPing([In, Out, MarshalAs(UnmanagedType.LPTStr)] StringBuilder str)
         {
+            int value = str.Length;
+            // This is an example of how to change the String value passed by reference from MQL
             str.Clear();
             str.Append("CPong");
-            return str.Length;
+            return value;
         }
 
         [DllExport("CPing2", CallingConvention = CallingConvention.StdCall)]
